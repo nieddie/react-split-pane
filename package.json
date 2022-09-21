@@ -9,7 +9,7 @@
     "dist",
     "index.d.ts"
   ],
-  "version": "0.1.92",
+  "version": "10.1.92",
   "repository": {
     "type": "git",
     "url": "https://github.com/tomkp/react-split-pane"
@@ -100,7 +100,7 @@
     "standard-version": "^7.0.0"
   },
   "peerDependencies": {
-    "react": "^16.0.0-0",
-    "react-dom": "^16.0.0-0"
+    "react": "^18.0.0-0",
+    "react-dom": "^18.0.0-0"
   }
 }
