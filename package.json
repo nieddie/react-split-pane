@@ -9,7 +9,7 @@
     "dist",
     "index.d.ts"
   ],
-  "version": "10.1.92",
+  "version": "10.1.92-1",
   "repository": {
     "type": "git",
     "url": "https://github.com/tomkp/react-split-pane"
@@ -89,9 +89,9 @@
     "parcel-bundler": "^1.12.4",
     "prettier": "2.0.5",
     "pretty-quick": "^2.0.1",
-    "react": ">=15",
-    "react-dom": "^16.0.0-0",
-    "react-router-dom": "^5.1.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.4.0",
     "rimraf": "^3.0.0",
     "rollup": "^2.3.4",
     "rollup-plugin-babel": "^4.3.3",
@@ -100,7 +100,7 @@
     "standard-version": "^7.0.0"
   },
   "peerDependencies": {
-    "react": "^18.0.0-0",
-    "react-dom": "^18.0.0-0"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   }
 }
